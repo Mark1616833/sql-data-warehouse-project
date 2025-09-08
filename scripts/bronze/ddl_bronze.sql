@@ -1,3 +1,6 @@
+/*
+Add some comments here.
+*/
 IF OBJECT_ID ('bronz.crm_prd_info', 'U') IS NOT NULL
 	DROP TABLE bronz.crm_prd_info;
 CREATE TABLE bronz.crm_prd_info (
